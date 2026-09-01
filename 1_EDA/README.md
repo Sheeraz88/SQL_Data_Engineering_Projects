@@ -1,4 +1,4 @@
-# Data Analysis with SQL: Job Market Analysis For Data Engineers
+# Data Analysis with SQL: Job Market Analysis of Data Engineer
 
 ![Project 1 Overview](../Images/1_1_Project1_EDA.png)
 
